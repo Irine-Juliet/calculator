@@ -1,7 +1,13 @@
 # calculator
 a calculator app
 
-#Description
+## Description
  A simple calculator app that executes user instructions on addition of figures.
  
-#Irine Juliet
+# Contributors
+Irine Juliet
+
+## License and Copyright
+
+
+
